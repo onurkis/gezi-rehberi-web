@@ -1,0 +1,16 @@
+{
+  "name": "Gezi Rehberi",
+  "short_name": "Gezi Rehberi",
+  "lang": "tr",
+  "display": "standalone",
+  "start_url": "/gezi-rehberi-web/",
+  "background_color": "#F3F4EF",
+  "theme_color": "#0B5D4B",
+  "icons": [
+    {
+      "src": "/gezi-rehberi-web/simge.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
